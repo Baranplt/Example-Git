@@ -1,0 +1,26 @@
+.content-instant {
+    padding-top: 100px;
+}
+
+.instant-item {
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+
+}
+
+.instant-item-title {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 0;
+}
+
+.instant-item-desc {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: white;
+}

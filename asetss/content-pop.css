@@ -1,0 +1,96 @@
+.content-pop {
+    margin-top: 50px;
+    background-color: white;
+    padding: 10px;
+}
+
+/* .pop-item-info {
+    margin-left: 140px;
+}
+
+.pop-item-price {
+    margin-left: 300px;
+
+}
+
+.pop-item-buy {
+    margin-left: 250px;
+
+} */
+
+.pop-h1 {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #09112d;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+.pop-title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    border-bottom: 1px solid black;
+    padding: 15px 0;
+    color: rgba(9, 17, 45, 0.6);
+}
+
+.pop-item {
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+    padding-right: 0;
+
+}
+
+.pop-item:hover {
+    background-color: #F5F6F8;
+
+}
+
+.pop-item-name {
+    font-size: 18px;
+    line-height: 27px;
+    color: #09112d;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+.pop-item-name span {
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+.pop-item-price {
+    font-weight: bold;
+    color: #09112d;
+
+}
+
+.pop-item-price span {
+
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+.pop-item-buy {
+    width: 100px;
+}
+
+.pop-wiew {
+    text-align: center;
+    padding: 30px;
+}
+
+.pop-wiew a {
+    color: #4EB7FF;
+    font-weight: bold;
+}
+
+.pop-wiew a:hover {
+    border-bottom: 2px solid #4EB7FF;
+}
+
+.d-n {
+    display: none;
+}

@@ -1,0 +1,107 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contanier-full {
+    width: 100%;
+    background-color: #2847B2;
+}
+
+.contanier {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justfiy-around {
+    justify-content: space-around;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.btn-secondery {
+    background-color: #4EB7FF;
+    padding: 20px;
+    border-radius: 100px;
+    color: white;
+}
+
+.btn-primary {
+    border: 2px solid #4EB7FF;
+    padding: 5px 20px;
+    border-radius: 15px;
+    color: #4EB7FF;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-primary:hover {
+    background-color: #4EB7FF;
+    color: white;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-5 {
+    width: 45%;
+}
+
+.col-4 {
+    width: 33.333%;
+}
+
+.bg-secondary {
+    background-color: #E9F3FC;
+}
+
+.bg-primary {
+    background-color: #F8F9FC;
+}
+
+.bg-third {
+    background-color: #09112D;
+}
+
+.p-fixed {
+    position: fixed;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #474D62;
+}
